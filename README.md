@@ -10,3 +10,4 @@ This repository contains coursework and projects for CIS 3902.
 <a href="bias_variance_overfitting_fertilizer_crop_yield_starter.ipynb"> Bias Variance and Overfitting </br>
 <a href=" regularization.ipynb"> Regularization </br>
 <a href=" Linear_Regression_Example_with_the_Housing_Data-2.ipynb"> Linear Regression with Housing Data </br>
+<a href=" Autoviz_(3).ipynb"> Autoviz </br>
