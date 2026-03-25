@@ -11,3 +11,4 @@ This repository contains coursework and projects for CIS 3902.
 <a href=" regularization.ipynb"> Regularization </br>
 <a href=" Linear_Regression_Example_with_the_Housing_Data-2.ipynb"> Linear Regression with Housing Data </br>
 <a href=" Autoviz_(3).ipynb"> Autoviz </br>
+<a href=" random_forest_crime_assignment_(1).ipynb"> Crime Model
